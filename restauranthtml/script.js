@@ -1,0 +1,1 @@
+$('.slidies').slick();
